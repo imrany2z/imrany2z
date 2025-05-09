@@ -35,5 +35,5 @@ A collection of production-ready JavaScript automations I’ve implemented to:
 
 ## Let's Connect
 
-- LinkedIn: [linkedin.com/in/imrany2z](https://linkedin.com/in/ia75040)
+- LinkedIn: [linkedin.com/in/ia75040](https://linkedin.com/in/ia75040)
 - GitHub: [github.com/imrany2z](https://github.com/imrany2z)
