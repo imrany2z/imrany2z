@@ -36,4 +36,5 @@ A collection of production-ready JavaScript automations I’ve implemented to:
 ## Let's Connect
 
 - Email: ia75040@gmail.com
+- linkedin: [linkedin.com/in/ia75040](https://www.linkedin.com/in/ia75040)
 - GitHub: [github.com/imrany2z](https://github.com/imrany2z)
