@@ -25,7 +25,7 @@ A collection of production-ready JavaScript automations I’ve implemented to:
 
 ## Tech I Work With
 
-- HubSpot Platform (Workflows, API, CRM Extensions)
+- HubSpot/Salesforce Platform (Workflows, API, CRM Extensions)
 - JavaScript (Node.js for custom code actions)
 - Zapier / Webhooks / REST APIs
 - Git, VS Code, GitHub
