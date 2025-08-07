@@ -8,7 +8,7 @@ Focused on building scalable, automated solutions that empower teams to work sma
 ## About Me
 
 I specialize in:
-- Custom HubSpot CRM development (Workflows, UI Extensions, Private Apps)
+- Custom HubSpot/salesforce CRM development (Workflows, UI Extensions, Private Apps)
 - Automating sales and service operations with JavaScript and APIs
 - Building end-to-end integrations with Zapier, Dialpad, and serverless tools
 - Cleaning, enriching, and syncing data across systems
